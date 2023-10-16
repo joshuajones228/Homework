@@ -7,7 +7,7 @@
 * Expand and broaden my professional network with people that I can help and people that are willing and able to help me
 * Accelerate my data analytics and data science learning/journey with professional training
 
- [Jupyter vs Deepnote, and no code vis] (https://medium.com/geekculture/why-i-stopped-using-jupyter-notebook-and-why-you-should-too-f5a3b00e90a6)
+ [Jupyter vs Deepnote, and no code vis](https://medium.com/geekculture/why-i-stopped-using-jupyter-notebook-and-why-you-should-too-f5a3b00e90a6)
 
  [I like animals] (file:///C:/Users/artif/Downloads/me%20with%20parrot.jpg)
  
