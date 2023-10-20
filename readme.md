@@ -1,5 +1,6 @@
 # Joshua Jones
 ## About Me
+<p>I am a military vet. I work in the engineering and technical field currently and am adding python/SQL and other data analysis skills to my resume for career growth. I like to garden, do home renovation projects, longboard, and do anything active really. Coding was tough at first, but now it's beginning to be fun </p>
 
 ### My Goals for the Data Analytics Course
 * Become more familiar with commercial tools that industry uses like VScode, Github/Git, and Jira
