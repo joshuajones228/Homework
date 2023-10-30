@@ -26,11 +26,20 @@ they are:
 - finally
 
 ## **5.** NumPy arrays are like what Python data type?
+They're like lists except they can only be 1 type of data.
 ## **6.** What is one of the main benefits of using NumPy arrays.
-## **7.** What is one of the main requirements about the 'dtype' of NumPy arrays?
+They're way faster than lists.
+## **7.** What is one of the main requirements about the 'dtype' of NumPy arrays? 
+it has to be set by user.
 ## **8.** Of the 10 uses of NumPy, name 2.
+mathematical operations, logical operations
 ## **9.** Name one of the other libraries we'll use with NumPy?
+pandas
 ## **10.** What is the shape of NumPy arrays?
+it's n dimensional. The user sets it.
 ## **11.** What is a Tensor?
+A math object that generalizes concepts of scalars,vectors, matrices and others.
 ## **12.** Name a reason why it's better using NumPy for Data Analysis than using a Python List?
+NumPy is built in C and is way faster than lists.
 ## **13.** When creating an "empty" array, where do the elements come from?
+They are whatever values are at the present memory location
