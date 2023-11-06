@@ -1,0 +1,5 @@
+,name,color,rootcrop,weather_preference
+0,carrot,orange,True,both
+1,celery,green,False,cool
+2,corn,yellow,False,hot
+3,radish,white,True,cool

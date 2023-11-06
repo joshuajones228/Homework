@@ -1,0 +1,6 @@
+name,color,rootcrop,weather_preference
+carrot,orange,True,both
+celery,green,False,cool
+corn,yellow,False,hot
+radish,white,True,cool
+spinach,green,False,cool

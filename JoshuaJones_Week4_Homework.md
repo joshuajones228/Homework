@@ -36,10 +36,12 @@ mathematical operations, logical operations
 ## **9.** Name one of the other libraries we'll use with NumPy?
 pandas
 ## **10.** What is the shape of NumPy arrays?
-it's n dimensional. The user sets it.
+The shape is effectively the number of elements in each dimension `np.array = [1,2,3]`, for example this is a 1 dimension array with 3 elements, or (3,).
 ## **11.** What is a Tensor?
-A math object that generalizes concepts of scalars,vectors, matrices and others.
+An array with 3+ dimensions. So once we get out of the 2d world, we are there
 ## **12.** Name a reason why it's better using NumPy for Data Analysis than using a Python List?
 NumPy is built in C and is way faster than lists.
 ## **13.** When creating an "empty" array, where do the elements come from?
 They are whatever values are at the present memory location
+
+&#x2600;&#x2600;&#x2600;&#x1F680;&#x1F680;&#x1F680;
