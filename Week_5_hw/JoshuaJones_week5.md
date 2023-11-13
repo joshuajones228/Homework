@@ -22,6 +22,8 @@ Best I can gather is you want columns to be the same data type. If you want to c
 
 Consistency is more important than most things I'd aruge. If it's null is it consistently null? That's better than one null value here, a wrong format there, a wrong dtype there, etc.
 
+Columns should also be of the same data types.
+
 &#x1F680; &#x1F680; &#x1F680;
 &#x1F680;
 &#x1F680;
